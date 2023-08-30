@@ -38,7 +38,7 @@ def get_qrcode_info():
     return qrcode_info_json
 
 
-def login(qrcode_base64, token):
+def show_and_scan(qrcode_base64, token):
     # decode and show qrcode
     image = decode_qrcode(qrcode_base64)
 
@@ -82,7 +82,7 @@ def login(qrcode_base64, token):
         time.sleep(5)
 
 
-def qrcode_login():
+def login():
     # check local cookie
     if os.path.exists(os.path.join('tmp', 'login_cookie')):
         return
@@ -97,4 +97,4 @@ def qrcode_login():
     qrcode_token = qrcode_info_json['data']['token']
 
     # show qrcode, user scan
-    login(qrcode_base64, qrcode_token)
+    show_and_scan(qrcode_base64, qrcode_token)
