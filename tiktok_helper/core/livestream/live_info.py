@@ -19,3 +19,16 @@ def get_info_json(live_id):
         print(f"A error occurred when get live json: {str(e)}")
         live_info_json = None
     return live_info_json
+
+
+def get_like_count(live_id):
+    # get info JSON
+    live_info_json = get_info_json(live_id)
+
+    # Parsing JSON
+    try:
+        like_count = live_info_json['data']['data'][0]['like_count']
+    except Exception as e:
+        print(f"A error occurred when get like count: {str(e)}")
+        like_count = None
+    return like_count
