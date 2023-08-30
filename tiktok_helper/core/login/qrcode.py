@@ -1,10 +1,13 @@
+import os
 import time
 
 import base64
 from io import BytesIO
+
+import requests
 from PIL import Image
 
-from common import *
+from .. import common
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 '
@@ -47,7 +50,7 @@ def login(qrcode_base64, token):
     check_qrcode_url = 'https://sso.douyin.com/check_qrconnect/?service=https%3A%2F%2Fwww.douyin.com' \
                        + '&token=' + token
 
-    basic_cookie = get_basic_cookie()
+    basic_cookie = common.get_basic_cookie()
 
     # wait user to sacn code
     while True:
@@ -72,7 +75,7 @@ def login(qrcode_base64, token):
             # get login cookie
             login_cookie = response.cookies
             # save cookie to local
-            save_cookie(login_cookie, 'login_cookie')
+            common.save_cookie(login_cookie, 'login_cookie')
             return
         else:
             pass

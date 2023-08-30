@@ -13,7 +13,7 @@ headers = {
 requests.packages.urllib3.disable_warnings()
 
 # tmp path
-tmp_folder_path = 'tmp'
+tmp_folder_path = '../../tmp'
 
 
 # generate xbogus, mstoken and ttwid
