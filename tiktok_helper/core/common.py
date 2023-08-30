@@ -31,6 +31,11 @@ def get_signature(url):
 
 # get basic cookies that most request operates need
 def get_basic_cookie():
+    # basic cookie already exist
+    if os.path.exists(os.path.join('../../tmp', 'basic_cookie')):
+        return load_cookie('basic_cookie')
+
+    # get cookie
     url_index = 'https://douyin.com'
     url_live_index = 'https://live.douyin.com'
     try:
@@ -66,15 +71,14 @@ def save_cookie(cookies, filename):
 
 
 # load cookie from local location
-def load_cookie():
+def load_cookie(cookie_name):
     cookie_jar = http.cookiejar.MozillaCookieJar()
     requests_cookie = requests.cookies.RequestsCookieJar()
     try:
-        cookie_jar.load(os.path.join(tmp_folder_path, 'basic_cookie'))
-        cookie_jar.load(os.path.join(tmp_folder_path, 'login_cookie'))
+        cookie_jar.load(os.path.join(tmp_folder_path, cookie_name))
         for cookie in cookie_jar:
             requests_cookie.set(cookie.name, cookie.value, domain=cookie.domain, path=cookie.path)
-        print(f"Cookie loaded from {tmp_folder_path} successfully!")
+        print(f"{cookie_name} loaded from local successfully!")
     except Exception as e:
         print(f"An error occurred when loading cookie: {str(e)}")
     return requests_cookie
