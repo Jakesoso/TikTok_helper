@@ -54,7 +54,8 @@ def show_and_scan(qrcode_base64, token):
 
     # wait user to sacn code
     while True:
-        response = requests.get(check_qrcode_url, headers=headers, cookies=basic_cookie)
+        session = requests.session()
+        response = session.get(check_qrcode_url, headers=headers, cookies=basic_cookie)
         qrcode_status_json = response.json()
 
         # print('=================')
@@ -71,9 +72,9 @@ def show_and_scan(qrcode_base64, token):
             print('login successfully!')
             # get redirect url
             redirect_url = qrcode_status_json['data']['redirect_url']
-            response = requests.get(redirect_url, headers=headers, cookies=basic_cookie, allow_redirects=False)
+            session.get(redirect_url, headers=headers)
             # get login cookie
-            login_cookie = response.cookies
+            login_cookie = session.cookies
             # save cookie to local
             common.save_cookie(login_cookie, 'login_cookie')
             return
