@@ -84,7 +84,7 @@ def show_and_scan(qrcode_base64, token):
 
 def login():
     # check local cookie
-    if os.path.exists(os.path.join('tmp', 'login_cookie')):
+    if common.load_cookie(['login_cookie']) is not None:
         return
 
     # get qrcode info (json)
