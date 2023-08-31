@@ -7,7 +7,7 @@ from core.login import qrcode
 
 if __name__ == '__main__':
     # login method
-    qrcode.login()
+    qrcode.login('douyin')
 
     # get livestream like count
     live_id = '336586944484'

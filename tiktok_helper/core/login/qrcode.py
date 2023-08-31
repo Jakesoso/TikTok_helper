@@ -38,7 +38,7 @@ def get_qrcode_info():
     return qrcode_info_json
 
 
-def show_and_scan(qrcode_base64, token):
+def show_and_scan(platform, qrcode_base64, token):
     # decode and show qrcode
     image = decode_qrcode(qrcode_base64)
 
@@ -47,8 +47,9 @@ def show_and_scan(qrcode_base64, token):
     image.show()
 
     # check qrcode connection url
-    check_qrcode_url = 'https://sso.douyin.com/check_qrconnect/?service=https%3A%2F%2Fwww.douyin.com' \
-                       + '&token=' + token
+    pre_url = 'douyin' if platform == 'douyin' else 'live.douyin'
+    check_qrcode_url = 'https://sso.douyin.com/check_qrconnect/?service=https%3A%2F%2F' \
+                       f'www.{pre_url}.com&token={token}'
 
     basic_cookie = common.get_basic_cookie()
 
@@ -76,16 +77,18 @@ def show_and_scan(qrcode_base64, token):
             # get login cookie
             login_cookie = session.cookies
             # save cookie to local
-            common.save_cookie(login_cookie, 'login_cookie')
+            cookie_name = 'douyin_login_cookie' if platform == 'douyin' else 'live_login_cookie'
+            common.save_cookie(login_cookie, cookie_name)
             return
         else:
             pass
         time.sleep(5)
 
 
-def login():
+def login(platform):
     # check local cookie
-    if common.load_cookie(['login_cookie']) is not None:
+    cookie_name = 'douyin_login_cookie' if platform == 'douyin' else 'live_login_cookie'
+    if common.load_cookie([cookie_name]) is not None:
         return
 
     # get qrcode info (json)
@@ -98,4 +101,4 @@ def login():
     qrcode_token = qrcode_info_json['data']['token']
 
     # show qrcode, user scan
-    show_and_scan(qrcode_base64, qrcode_token)
+    show_and_scan(platform, qrcode_base64, qrcode_token)
