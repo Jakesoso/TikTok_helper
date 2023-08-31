@@ -12,8 +12,8 @@ headers = {
 # disable warnings
 requests.packages.urllib3.disable_warnings()
 
-# tmp path
-tmp_folder_path = '../../tmp'
+# tmp absolute path
+tmp_folder_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../tmp'))
 
 
 # generate xbogus, mstoken and ttwid
@@ -32,8 +32,8 @@ def get_signature(url):
 # get basic cookies that most request operates need
 def get_basic_cookie():
     # basic cookie already exist
-    if os.path.exists(os.path.join('../../tmp', 'basic_cookie')):
-        return load_cookie('basic_cookie')
+    if os.path.exists(os.path.join(tmp_folder_path, 'basic_cookie')):
+        return load_cookie(['basic_cookie'])
 
     # get cookie
     url_index = 'https://douyin.com'
@@ -49,7 +49,7 @@ def get_basic_cookie():
 
 
 # save cookie to local location
-def save_cookie(cookies, filename):
+def save_cookie(cookies, name):
     # create a MozillaCookieJar obj
     cookie_jar = http.cookiejar.MozillaCookieJar()
 
@@ -62,23 +62,26 @@ def save_cookie(cookies, filename):
         os.makedirs(tmp_folder_path)
 
     # save cookieJar
-    file_path = os.path.join(tmp_folder_path, filename)
+    file_path = os.path.join(tmp_folder_path, name)
     try:
         cookie_jar.save(file_path)
         print(f"Cookie saved to {file_path} successfully!")
     except Exception as e:
-        print(f"An error occurred when saving {filename} cookie:{str(e)}")
+        print(f"An error occurred when saving {name} cookie:{str(e)}")
 
 
 # load cookie from local location
-def load_cookie(cookie_name):
+def load_cookie(names):
     cookie_jar = http.cookiejar.MozillaCookieJar()
     requests_cookie = requests.cookies.RequestsCookieJar()
     try:
-        cookie_jar.load(os.path.join(tmp_folder_path, cookie_name))
+        print(tmp_folder_path)
+        for cookie_name in names:
+            cookie_jar.load(os.path.join(tmp_folder_path, cookie_name))
+            print(f"{cookie_name} loaded from local successfully!")
         for cookie in cookie_jar:
             requests_cookie.set(cookie.name, cookie.value, domain=cookie.domain, path=cookie.path)
-        print(f"{cookie_name} loaded from local successfully!")
     except Exception as e:
         print(f"An error occurred when loading cookie: {str(e)}")
+        requests_cookie = None
     return requests_cookie
