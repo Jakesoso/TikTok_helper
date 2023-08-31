@@ -8,7 +8,6 @@ headers = {
                   'Safari/537.36 Edg/115.0.1901.203',
 }
 
-
 # disable warnings
 requests.packages.urllib3.disable_warnings()
 
@@ -75,7 +74,6 @@ def load_cookie(names):
     cookie_jar = http.cookiejar.MozillaCookieJar()
     requests_cookie = requests.cookies.RequestsCookieJar()
     try:
-        print(tmp_folder_path)
         for cookie_name in names:
             cookie_jar.load(os.path.join(tmp_folder_path, cookie_name))
             print(f"{cookie_name} loaded from local successfully!")
