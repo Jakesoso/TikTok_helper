@@ -1,0 +1,176 @@
+{
+    "campaign": {
+        "auction_info": {},
+        "campaign_id": "7274076649875276071",
+        "campaign_type": 0,
+        "end_time": 1693714350,
+        "fake_sec_kill": false,
+        "group_data": {
+            "avatar_list": [],
+            "button_text": "",
+            "group_id": "",
+            "group_label": "",
+            "group_size": 0,
+            "joined": 0,
+            "persent": 0
+        },
+        "is_preheat": false,
+        "label": "",
+        "left_stock": 0,
+        "max_price": 0,
+        "pic": "",
+        "pre_sale_data": {
+            "deposit_price": 0,
+            "discount_desc": "",
+            "origin_price": 0,
+            "shop_svalue": 0
+        },
+        "price": 45900,
+        "price_header": "",
+        "price_str": "",
+        "progress_text": "",
+        "promotion_id": "3473244624133482040",
+        "regular_price": 69900,
+        "start_time": 1693627950,
+        "stock": 0,
+        "style": 7,
+        "sub_type": 0,
+        "time_end_label": "",
+        "time_start_label": "",
+        "user_limit": 0
+    },
+    "carousel_time": 5000,
+    "commodity_icon": {
+        "bottom_icon": {
+            "normal": "https://lf9-cm.ecombdstatic.com/obj/eden-cn/nmeh7nulmuhknuhog/test/jiangjiezhongs.png",
+            "transparent": "https://lf3-cm.ecombdstatic.com/obj/eden-cn/nmeh7nulmuhknuhog/test/jian_cl.png"
+        },
+        "bottom_icon_wide": 0,
+        "live_room_type": -1,
+        "product_type": 7,
+        "rotation_time": 5000,
+        "up_icon": "https://lf3-cm.ecombdstatic.com/obj/eden-cn/nmeh7nulmuhknuhog/test/miaosha.png",
+        "up_icon_rotations": []
+    },
+    "logical_clock": 1693663029581,
+    "promotions": [
+        {
+            "activity": {},
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "",
+            "campaign": true,
+            "campaign_type": 7,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20825
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p9-aio.ecombdimg.com/img/ecom-shop-material/LCPIoBQb_m_eb3fde19b1f87a7c47de72d110a74c9f_sx_320692_www750-750~tplv-resize:200:0.webp",
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3473244624133482040&origin_type=638303&outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAArodGDsZ-3WHccs8zB6VjP8lHk_kbjJS4MhWt8cZ6de1f-faugyEmhNnDGsX0h2rD%2522%252C%2522room_id%2522%253A%25227274191488840518440%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3473244624133482040&origin_type=638303&outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAArodGDsZ-3WHccs8zB6VjP8lHk_kbjJS4MhWt8cZ6de1f-faugyEmhNnDGsX0h2rD%2522%252C%2522room_id%2522%253A%25227274191488840518440%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "live_product_type": "flash_sale",
+                "membership_prd": "normal",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "extra": {
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "start_time": "0"
+            },
+            "flash_icon": "",
+            "flash_type": 0,
+            "hot_atmosphere": {
+                "bg_color": "#CCF18827",
+                "bg_colors": [
+                    "#CCF18827",
+                    "#99F18827",
+                    "#00F18827"
+                ],
+                "border_color": "#CCFFB660",
+                "border_colors": [
+                    "#CCFFB660",
+                    "#99FFB660",
+                    "#00FFB660"
+                ],
+                "img": "https://lf3-cm.ecombdstatic.com/obj/eden-cn/uldphrbe/hot/billboard_S_2.webp",
+                "left_margin": 0,
+                "num": "3",
+                "sale_num": "0",
+                "top_img": "",
+                "type": 3,
+                "ui_type": 1
+            },
+            "in_stock": true,
+            "index": 0,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "max_price": 179900,
+            "min_price": 45900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_id": "3473244624133482040",
+            "product_tag": [
+                {
+                    "activity_icon": "https://p9.ecombdimg.com/img/eden-cn/ttpqeh7nupqbfnuhd/tag/live/flagship_pop.png~tplv-5mmsx3fupr-image.png",
+                    "height": 14,
+                    "label_name": "aweme_flagship",
+                    "width": 54
+                }
+            ],
+            "promotion_id": "3473244624133482040",
+            "real_index": 0,
+            "regular_price": 69900,
+            "rit_tags": {
+                "live_room_pop_biz_under": [],
+                "live_room_product_title_before": [
+                    {
+                        "label_name": "aweme_flagship",
+                        "tag_id": "",
+                        "text": [
+                            "抖音旗舰"
+                        ],
+                        "text_icon": {
+                            "height": 14,
+                            "url_list": [
+                                "https://p9.ecombdimg.com/img/eden-cn/ttpqeh7nupqbfnuhd/tag/live/flagship_pop.png~tplv-5mmsx3fupr-image.png"
+                            ],
+                            "width": 54
+                        },
+                        "track_tag": ""
+                    }
+                ]
+            },
+            "shop_id": 8787142,
+            "small_cover": "https://p9-aio.ecombdimg.com/img/ecom-shop-material/LCPIoBQb_m_eb3fde19b1f87a7c47de72d110a74c9f_sx_320692_www750-750~tplv-resize:110:0.webp",
+            "small_pop_card": {
+                "background_img_new": ""
+            },
+            "status": 2,
+            "stock_num": 0,
+            "title": "Sandisk/闪迪E61移动固态硬盘1TB三防大容量手机电脑两用移动硬盘"
+        }
+    ],
+    "server_time": 1693663029,
+    "show_duration": 10000,
+    "status_code": 0,
+    "status_msg": "success"
+}

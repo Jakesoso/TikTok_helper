@@ -22,3 +22,4 @@ if __name__ == '__main__':
     # get livestream cart info
     cart = Cart(live_id, user)
     print(cart)
+    print(cart.get_pop_goods())
