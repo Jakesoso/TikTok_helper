@@ -9,7 +9,8 @@ from requests.cookies import RequestsCookieJar
 
 from .. import common
 
-headers = common.headers.copy().update({'Referer': 'https://www.douyin.com/'})
+headers = common.headers.copy()
+headers['Referer'] = 'https://www.douyin.com/'
 
 
 def decode_qrcode(base64_encoded_qrcode) -> Image:
