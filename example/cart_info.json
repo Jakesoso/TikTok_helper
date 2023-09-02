@@ -1,0 +1,4186 @@
+{
+    "log_id": "202309021635587A81E953C083A9D86073",
+    "next_offset": 20,
+    "page_ab_config": {
+        "header_store_merge": 0,
+        "lite_list_style": 0,
+        "show_cart_num": 0,
+        "store_merge_slide_zone": 0,
+        "store_schema": ""
+    },
+    "page_bottom": {
+        "bottom_title": "直播间商品来自小店"
+    },
+    "page_category": {
+        "categories": [
+            {
+                "id": 0,
+                "name": "全部",
+                "type": 0,
+                "unique_index": ""
+            },
+            {
+                "id": 7489,
+                "name": "数码存储设备",
+                "type": 21,
+                "unique_index": "21_7489"
+            },
+            {
+                "id": 38116,
+                "name": "电脑组件",
+                "type": 1,
+                "unique_index": "1_38116"
+            },
+            {
+                "id": 7487,
+                "name": "3C数码配件",
+                "type": 21,
+                "unique_index": "21_7487"
+            },
+            {
+                "id": 38115,
+                "name": "电脑外设",
+                "type": 1,
+                "unique_index": "1_38115"
+            }
+        ],
+        "show_category_product_count": 10
+    },
+    "page_header": {
+        "anchor_tags": {
+            "live_room_good_list_header": [
+                {
+                    "event_param": {
+                        "dou_shop_level": "14",
+                        "entrance_location": "103",
+                        "shop_id": "48525476",
+                        "store_type": "shop"
+                    },
+                    "label_name": "",
+                    "tag_id": "",
+                    "text": [
+                        "14"
+                    ],
+                    "text_icon": {
+                        "height": 16,
+                        "url_list": [
+                            "https://lf3-static.bytednsdoc.com/obj/eden-cn/wvoz_j_tvjl/ljhwZthlaukjlkulzlp/56552.png"
+                        ],
+                        "width": 81
+                    },
+                    "track_tag": "shop_level_info_explain_page",
+                    "ui_config": {
+                        "corner_radius": false,
+                        "text_bg_color": "",
+                        "text_color": "",
+                        "text_splitor_style": 0
+                    },
+                    "url_doc": "sslocal://webcast_webview?animation_type=present\u0026enable_latch=1\u0026gravity=bottom\u0026height_percent=75\u0026hide_nav_bar=1\u0026hide_status_bar=0\u0026is_from_live_indicator=0\u0026mask_alpha=0.5\u0026open_animate=0\u0026radius=12\u0026status_bar_color=black\u0026top_level=1\u0026trans_status_bar=1\u0026type=popup\u0026use_player_bottom_height=1\u0026web_bg_color=%23ffffff\u0026width_percent=100\u0026up_full_screen=1\u0026up_height_percent=73\u0026up_offset_height=400\u0026up_trans_status_bar=1\u0026close_icon_position=-1\u0026use_real_screen_height=1\u0026add_safe_area_height=0\u0026url=https%3A%2F%2Flf-webcast-sourcecdn-tos.bytegecko.com%2Fobj%2Fbyte-gurd-source%2F10181%2Fgecko%2Fresource%2Fecommerce_shop_detail_web%2Fxzg_rule.html%3Fsec_shop_id%3DMlxkrfNE%26shop_id%3D48525476%26entrance_location%3D103"
+                },
+                {
+                    "label_name": "insurance_real_room",
+                    "tag_id": "1011",
+                    "text": [],
+                    "text_icon": {
+                        "height": 16,
+                        "url_list": [
+                            "https://p6.ecombdimg.com/img/eden-cn/hyhohzeh7psvhpelpe/live/room_tag/real_good_tag_save.png~tplv-5mmsx3fupr-image.png",
+                            "https://p9.ecombdimg.com/img/eden-cn/hyhohzeh7psvhpelpe/live/room_tag/real_good_tag_save.png~tplv-5mmsx3fupr-image.png"
+                        ],
+                        "width": 58
+                    },
+                    "track_tag": "save_insurance",
+                    "ui_config": {
+                        "corner_radius": false,
+                        "text_bg_color": "#FFF3F6FD",
+                        "text_color": "#FF52628A",
+                        "text_splitor_style": 0
+                    },
+                    "url_doc": ""
+                }
+            ]
+        },
+        "author_shop_info": {
+            "font_size": 14,
+            "is_xd_shop": true,
+            "jump_url": "sslocal://webview?url=https%3A%2F%2Fhaohuo.jinritemai.com%2Fviews%2Fshop%2Findex%3Fid%3DMlxkrfNE\u0026hide_bar=1\u0026hide_back_close=1\u0026hide_back_button=1\u0026hide_status_bar=1\u0026status_bar_color=white\u0026bounce_disable=1",
+            "live_params_type": [
+                1
+            ],
+            "name": "Lexar雷克沙旗舰店",
+            "shop_id": "MlxkrfNE"
+        },
+        "entries": [],
+        "entries_style": 0,
+        "layout_control": {
+            "browsing_style": 0,
+            "header_style": 0,
+            "tab_style": 0
+        },
+        "list_banner": {
+            "list_banner_refresh_timing": []
+        }
+    },
+    "page_hint": {
+        "apply_resp": {
+            "available": false,
+            "continue_apply": false,
+            "has_applied": false,
+            "status_code": 0,
+            "status_msg": "",
+            "total_count": 0
+        }
+    },
+    "page_room_info": {
+        "room_type": 0
+    },
+    "page_vibe": {},
+    "promotions": [
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7256727328918028579",
+                "campaign_type": 4,
+                "end_time": 1696780799,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 34900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3609608911004523625",
+                "regular_price": 56900,
+                "start_time": 1689523200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 38116,
+                "second_cid": 21598
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_ebc274eab36230f700e2ebb349a32658_sx_497881_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_ebc274eab36230f700e2ebb349a32658_sx_497881_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3609608911004523625\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "2TB只要五百多 等主播开价",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`2TB只要五百多 等主播开价",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACjpuIm04YX6izIwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 1,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 64800,
+            "min_price": 34900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3609608911004523625",
+            "product_tag": [],
+            "promotion_id": "3609608911004523625",
+            "real_index": 0,
+            "regular_price": 56900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "2TB只要五百多 等主播开价",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`2TB只要五百多 等主播开价"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙ARES固态硬盘PCle4.0 7400MB/S  NVME M.2长江存储",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7249566440599126329",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 109900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3620732028330328743",
+                "regular_price": 189900,
+                "start_time": 1687881600,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 38116,
+                "second_cid": 21598
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_113fc3221722406036fead832c2cea2f_sx_489861_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_113fc3221722406036fead832c2cea2f_sx_489861_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3620732028330328743\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "直降800！现货秒发！等主播",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`直降800！现货秒发！等主播",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACinhYm8ipPbnzIwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 2,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 119800,
+            "min_price": 109900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3620732028330328743",
+            "product_tag": [],
+            "promotion_id": "3620732028330328743",
+            "real_index": 1,
+            "regular_price": 189900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "直降800！现货秒发！等主播",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`直降800！现货秒发！等主播"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙ARES 4t固态硬盘PCle4.0 7400MB/S NVME M.2电脑硬盘",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7270765824900825356",
+                "campaign_type": 4,
+                "end_time": 1696089599,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 1990,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3553939119094795053",
+                "regular_price": 6990,
+                "start_time": 1692806400,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20821
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p9-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_360923dc2ffcced5bdbe827ec3126df5_sx_338342_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p9-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_360923dc2ffcced5bdbe827ec3126df5_sx_338342_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3553939119094795053\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "十几块就是他！等主播",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`十几块就是他！等主播",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACitlorYyZmIqTEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 3,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 5490,
+            "min_price": 1990,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3553939119094795053",
+            "product_tag": [],
+            "promotion_id": "3553939119094795053",
+            "real_index": 2,
+            "regular_price": 6990,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "十几块就是他！等主播",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`十几块就是他！等主播"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙V400 USB3.0高速正品优盘 手机电脑两用u盘小巧便携",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7269690035432325439",
+                "campaign_type": 4,
+                "end_time": 1699804799,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 29900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3581765652140180138",
+                "regular_price": 58900,
+                "start_time": 1692547200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 38116,
+                "second_cid": 21598
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_85bd2b354388e9708670f11ff53f8382_sx_302709_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_85bd2b354388e9708670f11ff53f8382_sx_302709_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3581765652140180138\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "4.0固态1T两百多！",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`4.0固态1T两百多！",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACiqhYuko5y_2jEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 4,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 59800,
+            "min_price": 29900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3581765652140180138",
+            "product_tag": [],
+            "promotion_id": "3581765652140180138",
+            "real_index": 3,
+            "regular_price": 58900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "4.0固态1T两百多！",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`4.0固态1T两百多！"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙NM710 PCle4.0固态硬盘5000MB/S  NVME M2台式笔记本",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7249661668605968644",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 69900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3586954726626996263",
+                "regular_price": 86900,
+                "start_time": 1687881600,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 38116,
+                "second_cid": 21588
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p9-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_e5b3c3c293a87eaa184a744cd0bf7f31_sx_244912_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p9-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_e5b3c3c293a87eaa184a744cd0bf7f31_sx_244912_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3586954726626996263\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACin4IqQnIrb4zEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 5,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 0,
+            "min_price": 69900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3586954726626996263",
+            "product_tag": [],
+            "promotion_id": "3586954726626996263",
+            "real_index": 4,
+            "regular_price": 86900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙战神RGB灯条DDR5 6400MHz 32GB(16G×2)台式机内存条",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7254381712090825012",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 36900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3612622904329636477",
+                "regular_price": 0,
+                "start_time": 1689004800,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": false,
+            "category": {
+                "first_cid": 38116,
+                "second_cid": 21598
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_892cdc8ef9550ddef4782e6b21182448_sx_135785_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_892cdc8ef9550ddef4782e6b21182448_sx_135785_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3612622904329636477\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "normal",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACj9lIjAwaynkTIwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": false,
+            "index": 6,
+            "is_campaign": true,
+            "is_sole_sku": true,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 2
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 0,
+            "min_price": 36900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3612622904329636477",
+            "product_tag": [],
+            "promotion_id": "3612622904329636477",
+            "real_index": 5,
+            "regular_price": 0,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙NM710 500G PCIe4.0 M.2固态硬盘5000MB/S NVME协议",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7256730151117947173",
+                "campaign_type": 4,
+                "end_time": 1696780799,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 27900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3575530624452307453",
+                "regular_price": 59900,
+                "start_time": 1689523200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 38116,
+                "second_cid": 21598
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_a08b412f4b5f7e523ff61a5ee7c8f883_sx_441943_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_a08b412f4b5f7e523ff61a5ee7c8f883_sx_441943_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3575530624452307453\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "2t 4百多固态，等主播",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`2t 4百多固态，等主播",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACj904qQi8W1zzEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 7,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 57800,
+            "min_price": 27900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3575530624452307453",
+            "product_tag": [],
+            "promotion_id": "3575530624452307453",
+            "real_index": 6,
+            "regular_price": 59900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "2t 4百多固态，等主播",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`2t 4百多固态，等主播"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙NM610PRO 1T 2T固态硬盘3300MB/S PCIE3.0台式笔记本",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7269691274788126988",
+                "campaign_type": 4,
+                "end_time": 1699804799,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 16900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3586403089525115690",
+                "regular_price": 0,
+                "start_time": 1692547200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20825
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_2dab9cde5587c33affc83a671ed12b83_sx_550050_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_2dab9cde5587c33affc83a671ed12b83_sx_550050_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3586403089525115690\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "99没开价等主播",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "normal",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`99没开价等主播",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACiqlojku9Pd4jEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 8,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 99900,
+            "min_price": 16900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3586403089525115690",
+            "product_tag": [],
+            "promotion_id": "3586403089525115690",
+            "real_index": 7,
+            "regular_price": 0,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "99没开价等主播",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`99没开价等主播"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙E6 1T 2T移动固态硬盘 外置type-c 原装M2硬盘盒高速",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7249264295325335864",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 2690,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3550985740659859850",
+                "regular_price": 3990,
+                "start_time": 1687795200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20823
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_b26d88b2d39b3ea67371da9888673725_sx_664879_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_b26d88b2d39b3ea67371da9888673725_sx_664879_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3550985740659859850\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "行车记录仪监控内存卡 直接拍",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`行车记录仪监控内存卡 直接拍",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACiKw4jU-dboozEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 9,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 6690,
+            "min_price": 2690,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3550985740659859850",
+            "product_tag": [],
+            "promotion_id": "3550985740659859850",
+            "real_index": 8,
+            "regular_price": 3990,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "行车记录仪监控内存卡 直接拍",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`行车记录仪监控内存卡 直接拍"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙TF存储卡633X 100MB/s V30高速原装行车记录仪内存卡",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7254590072778506500",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 666,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3570276410461391685",
+                "regular_price": 6995,
+                "start_time": 1689004800,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 38115,
+                "second_cid": 21602,
+                "third_cid": 28122
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_652105bef01b6983f50821980e3e6a50_sx_432101_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_652105bef01b6983f50821980e3e6a50_sx_432101_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3570276410461391685\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACjFlojcqu-KxjEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 10,
+            "is_campaign": true,
+            "is_sole_sku": true,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 2
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 0,
+            "min_price": 666,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3570276410461391685",
+            "product_tag": [],
+            "promotion_id": "3570276410461391685",
+            "real_index": 9,
+            "regular_price": 6995,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙超大号电竞鼠标垫 锁边长款 游戏电竞大桌垫耐磨加厚",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7249264795320533263",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 49900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3551178522439638352",
+                "regular_price": 109900,
+                "start_time": 1687795200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 38116,
+                "second_cid": 21598
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_69b06e0365bc862613c05560ff55163f_sx_191641_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_69b06e0365bc862613c05560ff55163f_sx_191641_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3551178522439638352\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "旗舰产品了属于是",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`旗舰产品了属于是",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACjQuovg0cGUpDEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 11,
+            "is_campaign": true,
+            "is_sole_sku": true,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 2
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 0,
+            "min_price": 49900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3551178522439638352",
+            "product_tag": [],
+            "promotion_id": "3551178522439638352",
+            "real_index": 10,
+            "regular_price": 109900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "旗舰产品了属于是",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`旗舰产品了属于是"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙NM800Pro 1t m2固态硬盘7500MB/S PCIE4.0 NVMe硬盘",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7249268077639532815",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 36900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3550968483414201887",
+                "regular_price": 45900,
+                "start_time": 1687795200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20823
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_b158f8a4ae1788c6ca198a652c45630c_sx_346256_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_b158f8a4ae1788c6ca198a652c45630c_sx_346256_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3550968483414201887\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "V60 4K相机卡",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`V60 4K相机卡",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACifrIu02eDkozEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 12,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 269900,
+            "min_price": 36900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3550968483414201887",
+            "product_tag": [],
+            "promotion_id": "3550968483414201887",
+            "real_index": 11,
+            "regular_price": 45900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "V60 4K相机卡",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`V60 4K相机卡"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙SD存储卡1800x 270MB/s UHS-II V60 4K视频专业高速",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7256730282542924092",
+                "campaign_type": 4,
+                "end_time": 1696780799,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 3490,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3607888199701145596",
+                "regular_price": 6900,
+                "start_time": 1689523200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20820
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p6-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_9681908615901ae4048905433436d039_sx_106069_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p6-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_9681908615901ae4048905433436d039_sx_106069_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3607888199701145596\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACj8z4qkvObyiDIwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 13,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 9990,
+            "min_price": 3490,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3607888199701145596",
+            "product_tag": [],
+            "promotion_id": "3607888199701145596",
+            "real_index": 12,
+            "regular_price": 6900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙D400 手机U盘高速USB/Type-c手机电脑两用优盘128G",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7252590666227401012",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 5990,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3605317529922317708",
+                "regular_price": 0,
+                "start_time": 1687795200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20821
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_360923dc2ffcced5bdbe827ec3126df5_sx_338342_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_360923dc2ffcced5bdbe827ec3126df5_sx_338342_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3605317529922317708\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "normal",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACiM24iMkaaqhDIwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 14,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 6990,
+            "min_price": 5990,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3605317529922317708",
+            "product_tag": [],
+            "promotion_id": "3605317529922317708",
+            "real_index": 13,
+            "regular_price": 0,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙USB3.0 32G高速正品u盘 安卓手机电脑两用盘通用便携",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7269690215038910757",
+                "campaign_type": 4,
+                "end_time": 1699804799,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 6490,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3619582199164181146",
+                "regular_price": 8900,
+                "start_time": 1692547200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20821
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_fb8028db6f9c14ca41e7ccfdd7caa8ca_sx_329828_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_fb8028db6f9c14ca41e7ccfdd7caa8ca_sx_329828_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3619582199164181146\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACiatYiE09rVnTIwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 15,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 17990,
+            "min_price": 6490,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3619582199164181146",
+            "product_tag": [],
+            "promotion_id": "3619582199164181146",
+            "real_index": 14,
+            "regular_price": 8900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙M900 128G高速USB3.1推拉式设计加密商务电脑U盘64G",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": false,
+            "campaign_type": 0,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20000,
+                "second_cid": 20131,
+                "third_cid": 22226
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/VERWkHkX_m_e9d4276c47b6706e817def732022c6fa_sx_85285_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/VERWkHkX_m_e9d4276c47b6706e817def732022c6fa_sx_85285_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3611604939031355341\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "normal",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACjkmIqg2ea_jzIwAQ\",\"c_biz_combo\":\"2\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 16,
+            "is_campaign": false,
+            "is_sole_sku": true,
+            "item_type": 4,
+            "jump_destination": {
+                "blank": 0,
+                "button": 2
+            },
+            "leaf_category": "3C数码配件",
+            "lottery": false,
+            "max_price": 0,
+            "min_price": 1690,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 1,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3611604556779261028",
+            "product_tag": [],
+            "promotion_id": "3611604939031355341",
+            "real_index": 15,
+            "regular_price": 0,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 7720640,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_url": {
+                "height": 20,
+                "url_list": [
+                    "https://lf6-cm.ecombdstatic.com/obj/eden-cn/lcps_tvjl/ljhwZthlaukjlkulzlp/cross_shop_product.webp"
+                ],
+                "width": 56
+            },
+            "stock_num": 0,
+            "title": "Type-C数据线转USB3.2 CtaA传输线10Gbps 移动固态硬盘数据线",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf6-cm.ecombdstatic.com/obj/eden-cn/lcps_tvjl/ljhwZthlaukjlkulzlp/cross_shop_product.webp"
+                ],
+                "width": 56
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7249273806924415266",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 6900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3552506240578022535",
+                "regular_price": 15900,
+                "start_time": 1687795200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20823
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p6-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_cb290bcf4bfdd52cf6d6cac06761bd79_sx_121293_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p6-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_cb290bcf4bfdd52cf6d6cac06761bd79_sx_121293_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3552506240578022535\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "华为 荣耀 授权专用NM内存卡",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`华为 荣耀 授权专用NM内存卡",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACiH2YugqbPCpjEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 17,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 15900,
+            "min_price": 6900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3552506240578022535",
+            "product_tag": [],
+            "promotion_id": "3552506240578022535",
+            "real_index": 16,
+            "regular_price": 15900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "华为 荣耀 授权专用NM内存卡",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`华为 荣耀 授权专用NM内存卡"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙原装华为官方NM存储卡 90MB/s nCARD 华为手机内存卡",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7249265762777776418",
+                "campaign_type": 4,
+                "end_time": 1695571199,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 42900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3583444292988970489",
+                "regular_price": 59900,
+                "start_time": 1687795200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20826
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p6-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_db1953113cff111229cc3c30b8229501_sx_399655_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p6-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_db1953113cff111229cc3c30b8229501_sx_399655_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3583444292988970489\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACj5y4jgk_O83TEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 18,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 179900,
+            "min_price": 42900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3583444292988970489",
+            "product_tag": [],
+            "promotion_id": "3583444292988970489",
+            "real_index": 17,
+            "regular_price": 59900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "fast_refund",
+                        "tag_id": "101004",
+                        "text": [
+                            "极速退款"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙时光机T3 个人私有云盘NAS网络存储器远程访问云存储",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7269691412219117878",
+                "campaign_type": 4,
+                "end_time": 1699804799,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 13900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3581738660502085471",
+                "regular_price": 19900,
+                "start_time": 1692547200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 38115,
+                "second_cid": 21602,
+                "third_cid": 28125
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p6-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_ea1ee0497be8124333b900771f3e7d9f_sx_337844_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p6-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_ea1ee0497be8124333b900771f3e7d9f_sx_337844_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3581738660502085471\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "0",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACjfvorM24q52jEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 19,
+            "is_campaign": true,
+            "is_sole_sku": true,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 2
+            },
+            "leaf_category": "",
+            "lottery": false,
+            "max_price": 0,
+            "min_price": 13900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3581738660502085471",
+            "product_tag": [],
+            "promotion_id": "3581738660502085471",
+            "real_index": 18,
+            "regular_price": 19900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙Type-C扩展坞USB-C转HDMI拓展适用苹果Mac华为笔记本",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf9-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        },
+        {
+            "apply_coupon": 2,
+            "biz_kind": 0,
+            "button_label": "去抢购",
+            "campaign": true,
+            "campaign_info": {
+                "auction_info": {},
+                "campaign_id": "7269691547976204555",
+                "campaign_type": 4,
+                "end_time": 1699804799,
+                "fake_sec_kill": false,
+                "group_data": {
+                    "avatar_list": [],
+                    "button_text": "",
+                    "group_id": "",
+                    "group_label": "",
+                    "group_size": 0,
+                    "joined": 0,
+                    "persent": 0
+                },
+                "is_preheat": false,
+                "label": "",
+                "left_stock": 0,
+                "max_price": 0,
+                "pic": "",
+                "pre_sale_data": {
+                    "deposit_price": 0,
+                    "discount_desc": "",
+                    "origin_price": 0,
+                    "shop_svalue": 0
+                },
+                "price": 18900,
+                "price_header": "",
+                "price_str": "",
+                "progress_text": "",
+                "promotion_id": "3584530906897119620",
+                "regular_price": 24900,
+                "start_time": 1692547200,
+                "stock": 0,
+                "style": 13,
+                "sub_type": 0,
+                "time_end_label": "",
+                "time_start_label": "",
+                "user_limit": 0
+            },
+            "campaign_type": 13,
+            "can_add_cart": true,
+            "can_sold": true,
+            "category": {
+                "first_cid": 20049,
+                "second_cid": 20825
+            },
+            "channel_id": 0,
+            "channel_type": 0,
+            "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_70be7f4db331e4e5a63a97cb033c7ad0_sx_112329_www800-800~tplv-resize:200:0.webp",
+            "detail_cover": {
+                "height": 200,
+                "url_list": [
+                    "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_70be7f4db331e4e5a63a97cb033c7ad0_sx_112329_www800-800~tplv-resize:800:0.webp"
+                ],
+                "width": 200
+            },
+            "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3584530906897119620\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+            "directly_jump_url": "",
+            "discount_label": [],
+            "discount_price": {},
+            "elastic_title": "原装移动固态硬盘盒",
+            "event_param": {
+                "avl_discount": "0",
+                "coupon_id": "",
+                "discount_type": "",
+                "enter_from_merge": "",
+                "enter_method": "",
+                "insurance_commodity_flag": "0",
+                "membership_prd": "normal",
+                "price_show_type": "line",
+                "price_type": "",
+                "product_background": "normal",
+                "sellingpoint_type": "1",
+                "sellpoint_bp": "1051`3`0`原装移动固态硬盘盒",
+                "source_page": "_temai_",
+                "warm_up_status": "0"
+            },
+            "explain_type": 0,
+            "extra": {
+                "coupon_min_price": "0",
+                "has_discount_price": "0",
+                "origin_id": "",
+                "origin_type": "",
+                "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACiE84uA5Puz3zEwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+            },
+            "find_goods_info": "",
+            "flash_icon": "",
+            "flash_type": 0,
+            "has_commentary_video": false,
+            "hide_cart": false,
+            "in_stock": true,
+            "index": 20,
+            "is_campaign": true,
+            "is_sole_sku": false,
+            "item_type": 6,
+            "jump_destination": {
+                "blank": 0,
+                "button": 1
+            },
+            "leaf_category": "数码存储设备",
+            "lottery": false,
+            "max_price": 66800,
+            "min_price": 18900,
+            "min_price_str": "",
+            "order_url": "",
+            "platform": 4,
+            "price_header": "",
+            "product_hints": {
+                "sold_status": 0,
+                "sold_toast": ""
+            },
+            "product_id": "3584530906897119620",
+            "product_tag": [],
+            "promotion_id": "3584530906897119620",
+            "real_index": 19,
+            "regular_price": 24900,
+            "rit_tags": {
+                "live_room_good_list_user_right": [
+                    {
+                        "label_name": "fake_compensate_four",
+                        "tag_id": "101045",
+                        "text": [
+                            "假一赔四"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "broken_compensatey",
+                        "tag_id": "101005",
+                        "text": [
+                            "坏损包退"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    },
+                    {
+                        "label_name": "freight_insurance",
+                        "tag_id": "101001",
+                        "text": [
+                            "运费险"
+                        ],
+                        "track_tag": "",
+                        "ui_config": {
+                            "corner_radius": false,
+                            "text_bg_color": "#08161823",
+                            "text_color": "#80161823",
+                            "text_splitor_style": 0
+                        },
+                        "url_doc": ""
+                    }
+                ]
+            },
+            "sell_point_data": {
+                "carousel_time": 5000,
+                "data": [
+                    {
+                        "before": "",
+                        "content": "原装移动固态硬盘盒",
+                        "event_param": {
+                            "sellpoint_bp": "1051`3`0`原装移动固态硬盘盒"
+                        },
+                        "type": 1
+                    }
+                ]
+            },
+            "shop_id": 48525476,
+            "simple_sku_max_count": 0,
+            "status": 2,
+            "status_img_map": {
+                "7000": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            },
+            "stock_num": 0,
+            "title": "Lexar/雷克沙 E10 1T 2T移动固态硬盘盒m.2高速typec外接M2硬盘盒",
+            "top_left_icon": {
+                "height": 20,
+                "url_list": [
+                    "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+                ],
+                "width": 64
+            }
+        }
+    ],
+    "server_time": 1693643758,
+    "status_code": 0,
+    "status_msg": "",
+    "target_promotions": [],
+    "top_promotion": {
+        "apply_coupon": 2,
+        "biz_kind": 0,
+        "button_label": "去抢购",
+        "campaign": true,
+        "campaign_info": {
+            "auction_info": {},
+            "campaign_id": "7256727328918028579",
+            "campaign_type": 4,
+            "end_time": 1696780799,
+            "fake_sec_kill": false,
+            "group_data": {
+                "avatar_list": [],
+                "button_text": "",
+                "group_id": "",
+                "group_label": "",
+                "group_size": 0,
+                "joined": 0,
+                "persent": 0
+            },
+            "is_preheat": false,
+            "label": "",
+            "left_stock": 0,
+            "max_price": 0,
+            "pic": "",
+            "pre_sale_data": {
+                "deposit_price": 0,
+                "discount_desc": "",
+                "origin_price": 0,
+                "shop_svalue": 0
+            },
+            "price": 34900,
+            "price_header": "",
+            "price_str": "",
+            "progress_text": "",
+            "promotion_id": "3609608911004523625",
+            "regular_price": 56900,
+            "start_time": 1689523200,
+            "stock": 0,
+            "style": 13,
+            "sub_type": 0,
+            "time_end_label": "",
+            "time_start_label": "",
+            "user_limit": 0
+        },
+        "campaign_type": 13,
+        "can_add_cart": true,
+        "can_sold": true,
+        "category": {
+            "first_cid": 38116,
+            "second_cid": 21598
+        },
+        "channel_id": 0,
+        "channel_type": 0,
+        "cover": "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_ebc274eab36230f700e2ebb349a32658_sx_497881_www800-800~tplv-resize:200:0.webp",
+        "detail_cover": {
+            "height": 200,
+            "url_list": [
+                "https://p3-aio.ecombdimg.com/img/ecom-shop-material/MlxkrfNE_m_ebc274eab36230f700e2ebb349a32658_sx_497881_www800-800~tplv-resize:800:0.webp"
+            ],
+            "width": 200
+        },
+        "detail_url": "https://ecom.douyin.com/ecommerce/trade/detail/index.html?id=3609608911004523625\u0026origin_type=638301\u0026outside_biz_info=%257B%2522sec_author_id%2522%253A%2522MS4wLjABAAAA3X_wHKjZtV12qXirG5ehj3eISnZiCbvIEfVGAuYy1nQ%2522%252C%2522room_id%2522%253A%25227274130150554536704%2522%252C%2522aid%2522%253A%25226383%2522%257D",
+        "directly_jump_url": "",
+        "discount_label": [],
+        "discount_price": {},
+        "elastic_title": "2TB只要五百多 等主播开价",
+        "event_param": {
+            "avl_discount": "0",
+            "coupon_id": "",
+            "discount_type": "",
+            "enter_from_merge": "",
+            "enter_method": "",
+            "insurance_commodity_flag": "0",
+            "membership_prd": "normal",
+            "price_show_type": "line",
+            "price_type": "",
+            "product_background": "normal",
+            "sellingpoint_type": "1",
+            "sellpoint_bp": "1051`3`0`2TB只要五百多 等主播开价",
+            "source_page": "_temai_",
+            "warm_up_status": "0"
+        },
+        "explain_type": 0,
+        "extra": {
+            "coupon_min_price": "0",
+            "has_discount_price": "0",
+            "origin_id": "",
+            "origin_type": "",
+            "track_extra": "{\"buyin_track\":\"CKHxBhDI5oCa-vQwGgwIgJaMzs_auflkEAIiACjpuIm04YX6izIwAg\",\"c_biz_combo\":\"8\",\"add_cart_source\":\"live\"}"
+        },
+        "find_goods_info": "",
+        "flash_icon": "",
+        "flash_type": 0,
+        "has_commentary_video": false,
+        "hide_cart": false,
+        "in_stock": true,
+        "index": 1,
+        "is_campaign": true,
+        "is_sole_sku": false,
+        "item_type": 6,
+        "jump_destination": {
+            "blank": 0,
+            "button": 1
+        },
+        "leaf_category": "",
+        "lottery": false,
+        "max_price": 64800,
+        "min_price": 34900,
+        "min_price_str": "",
+        "order_url": "",
+        "platform": 4,
+        "price_header": "",
+        "product_hints": {
+            "sold_status": 0,
+            "sold_toast": ""
+        },
+        "product_id": "3609608911004523625",
+        "product_tag": [],
+        "promotion_id": "3609608911004523625",
+        "real_index": 0,
+        "regular_price": 56900,
+        "rit_tags": {
+            "live_room_good_list_user_right": [
+                {
+                    "label_name": "fake_compensate_four",
+                    "tag_id": "101045",
+                    "text": [
+                        "假一赔四"
+                    ],
+                    "track_tag": "",
+                    "ui_config": {
+                        "corner_radius": false,
+                        "text_bg_color": "#08161823",
+                        "text_color": "#80161823",
+                        "text_splitor_style": 0
+                    },
+                    "url_doc": ""
+                },
+                {
+                    "label_name": "broken_compensatey",
+                    "tag_id": "101005",
+                    "text": [
+                        "坏损包退"
+                    ],
+                    "track_tag": "",
+                    "ui_config": {
+                        "corner_radius": false,
+                        "text_bg_color": "#08161823",
+                        "text_color": "#80161823",
+                        "text_splitor_style": 0
+                    },
+                    "url_doc": ""
+                },
+                {
+                    "label_name": "freight_insurance",
+                    "tag_id": "101001",
+                    "text": [
+                        "运费险"
+                    ],
+                    "track_tag": "",
+                    "ui_config": {
+                        "corner_radius": false,
+                        "text_bg_color": "#08161823",
+                        "text_color": "#80161823",
+                        "text_splitor_style": 0
+                    },
+                    "url_doc": ""
+                }
+            ]
+        },
+        "sell_point_data": {
+            "carousel_time": 5000,
+            "data": [
+                {
+                    "before": "",
+                    "content": "2TB只要五百多 等主播开价",
+                    "event_param": {
+                        "sellpoint_bp": "1051`3`0`2TB只要五百多 等主播开价"
+                    },
+                    "type": 1
+                }
+            ]
+        },
+        "shop_id": 48525476,
+        "simple_sku_max_count": 0,
+        "status": 2,
+        "status_img_map": {
+            "7000": "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+        },
+        "stock_num": 0,
+        "title": "Lexar/雷克沙ARES固态硬盘PCle4.0 7400MB/S  NVME M.2长江存储",
+        "top_left_icon": {
+            "height": 20,
+            "url_list": [
+                "https://lf3-cm.ecombdstatic.com/obj/cmp-ecom-live/goodslist_status_img.png"
+            ],
+            "width": 64
+        }
+    },
+    "total": 54
+}

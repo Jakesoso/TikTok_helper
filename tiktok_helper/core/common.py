@@ -2,6 +2,8 @@ import http.cookiejar
 import os
 
 import requests
+from requests import Response
+from requests.cookies import RequestsCookieJar
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 '
@@ -16,7 +18,7 @@ tmp_folder_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..
 
 
 # generate xbogus, mstoken and ttwid
-def get_signature(url):
+def get_signature(url: str) -> Response.json:
     signature_data = {
         'url': url,
         'userAgent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0'
@@ -29,7 +31,7 @@ def get_signature(url):
 
 
 # get basic cookies that most request operates need
-def get_basic_cookie():
+def get_basic_cookie() -> RequestsCookieJar:
     # basic cookie already exist
     if os.path.exists(os.path.join(tmp_folder_path, 'basic_cookie')):
         return load_cookie(['basic_cookie'])
@@ -48,7 +50,7 @@ def get_basic_cookie():
 
 
 # save cookie to local location
-def save_cookie(cookies, name):
+def save_cookie(cookies: RequestsCookieJar, name: str) -> None:
     # create a MozillaCookieJar obj
     cookie_jar = http.cookiejar.MozillaCookieJar()
 
@@ -70,7 +72,7 @@ def save_cookie(cookies, name):
 
 
 # load cookie from local location
-def load_cookie(names):
+def load_cookie(names: list) -> RequestsCookieJar:
     cookie_jar = http.cookiejar.MozillaCookieJar()
     requests_cookie = requests.cookies.RequestsCookieJar()
     try:

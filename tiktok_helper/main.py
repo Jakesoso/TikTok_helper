@@ -1,23 +1,27 @@
-from core.livestream import live_info
-from core.livestream import goods_info
-from core.login import qrcode
+from core.livestream.Cart import Cart
+from core.livestream.LiveStream import LiveStream
+from core.user.User import User
 
 '''
-    this is an example usage.
+    this is an usage example.
 '''
 
 if __name__ == '__main__':
-    # login method
-    qrcode.login('douyin')
+    # login (not recommend)
+    # qrcode.login('douyin')
     # qrcode.login('live.douyin')
 
-    # get livestream like count
-    live_id = '336586944484'
-    like_count = live_info.get_like_count(live_id)
-    print(like_count)
+    # user login (recommend) [args optional]
+    user = User()
 
-    # get goods list
-    goods_list = goods_info.get_goods_list(live_id)
+    # get livestream info
+    live_id = '336586944484'
+    live = LiveStream(live_id)
+    print(live)
+
+    # get livestream cart info
+    cart = Cart(live_id, user)
+    print(cart)
 
     # print names in goods list for example
     print('======goods list======')

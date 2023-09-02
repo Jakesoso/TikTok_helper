@@ -1,22 +1,18 @@
-import os
-import time
-
 import base64
+import time
 from io import BytesIO
 
 import requests
 from PIL import Image
+from requests import Response
+from requests.cookies import RequestsCookieJar
 
 from .. import common
 
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 '
-                  'Safari/537.36 Edg/115.0.1901.203',
-    'Referer': 'https://www.douyin.com/',
-}
+headers = common.headers.copy().update({'Referer': 'https://www.douyin.com/'})
 
 
-def decode_qrcode(base64_encoded_qrcode):
+def decode_qrcode(base64_encoded_qrcode) -> Image:
     # decode
     decoded_qrcode = base64.b64decode(base64_encoded_qrcode)
 
@@ -29,7 +25,7 @@ def decode_qrcode(base64_encoded_qrcode):
     return image
 
 
-def get_qrcode_info():
+def get_qrcode_info() -> Response.json:
     get_qrcode_url = 'https://sso.douyin.com/get_qrcode/?service=https%3A%2F%2Flive.douyin.com'
 
     response = requests.get(get_qrcode_url, headers=headers)
@@ -38,7 +34,7 @@ def get_qrcode_info():
     return qrcode_info_json
 
 
-def show_and_scan(platform, qrcode_base64, token):
+def show_and_scan(platform: str, qrcode_base64, token: str) -> RequestsCookieJar:
     # decode and show qrcode
     image = decode_qrcode(qrcode_base64)
 
@@ -79,17 +75,19 @@ def show_and_scan(platform, qrcode_base64, token):
             # save cookie to local
             cookie_name = 'douyin_login_cookie' if platform == 'douyin' else 'live_login_cookie'
             common.save_cookie(login_cookie, cookie_name)
-            return
+            return login_cookie
         else:
             pass
         time.sleep(5)
 
 
-def login(platform):
+def login(platform: str) -> None:
     # check local cookie
     cookie_name = 'douyin_login_cookie' if platform == 'douyin' else 'live_login_cookie'
     if common.load_cookie([cookie_name]) is not None:
         return
+
+    print('===logining===')
 
     # get qrcode info (json)
     qrcode_info_json = get_qrcode_info()
