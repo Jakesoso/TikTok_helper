@@ -22,11 +22,3 @@ if __name__ == '__main__':
     # get livestream cart info
     cart = Cart(live_id, user)
     print(cart)
-
-    # print names in goods list for example
-    print('======goods list======')
-    cnt = 1
-    for goods in goods_list:
-        goods_name = goods.get('title')
-        print(f'No{cnt}: {goods_name}')
-        cnt += 1
